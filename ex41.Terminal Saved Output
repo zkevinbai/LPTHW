@@ -1,0 +1,997 @@
+Last login: Thu Sep 29 11:33:11 on ttys000
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light
+play time
+le
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light
+play time
+le
+['Telephones', 'Light']
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+  File "Exercises/ex38.py", line 13
+    stuff.append(next_one).
+                          ^
+SyntaxError: invalid syntax
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light#Sugar#Boy#Girl#Banana
+play time
+le
+['Telephones', 'Light']
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light#Sugar#Boy#Girl#Banana
+play time
+le
+['Telephones', 'Light']
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light
+play time
+le
+['Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana']
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+Corn
+Corn
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+Telephones#Light
+play time
+le
+['Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana']
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+  File "Exercises/ex38.py", line 26
+    print "2", stuff "\n"
+                        ^
+SyntaxError: invalid syntax
+Kevins-MacBook-Pro:~ kevinbai$ python Exercises/ex38.py 
+
+Wait there are not 10 things in that list. Let's fix that.
+Adding:  Boy
+There are 7 items now.
+Adding:  Girl
+There are 8 items now.
+Adding:  Banana
+There are 9 items now.
+Adding:  Corn
+There are 10 items now.
+There we go:  ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn']
+Let's do some things with stuff.
+Oranges
+1 ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn'] 
+
+Corn
+2 ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana', 'Corn'] 
+
+Corn
+3 ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana'] 
+
+ApplesOrangesCrowsTelephonesLightSugarBoyGirlBanana
+4 ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana'] 
+
+Telephones#Light
+5 ['Apples', 'Oranges', 'Crows', 'Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana'] 
+
+play time
+le
+['Telephones', 'Light', 'Sugar', 'Boy', 'Girl', 'Banana']
+Kevins-MacBook-Pro:~ kevinbai$ 
+Kevins-MacBook-Pro:~ kevinbai$ python
+Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 12:54:16) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 6*12+2
+74
+>>> quit()
+Kevins-MacBook-Pro:~ kevinbai$ PS1="\w \u\$: "
+~ kevinbai$: cd Exercises/
+~/Exercises kevinbai$: cd Exercises/
+-bash: cd: Exercises/: No such file or directory
+~/Exercises kevinbai$: python ex39.py 
+Traceback (most recent call last):
+  File "ex39.py", line 1, in <module>
+    SHA1("Hello World")
+NameError: name 'SHA1' is not defined
+~/Exercises kevinbai$: python ex39.py 
+  File "ex39.py", line 4
+    'Florida': 'FL'
+             ^
+SyntaxError: invalid syntax
+~/Exercises kevinbai$: python ex39.py 
+  File "ex39.py", line 4
+    'Florida': 'FL'
+             ^
+SyntaxError: invalid syntax
+~/Exercises kevinbai$: python ex39.py 
+----------
+NY State has:  New York
+OR State has:  Portland
+----------
+Michigan's abbreviation is:  MI
+Florida's abbreviation is:  FL
+----------
+Michigan has:  Detroit
+Florida has:  Jacksonville
+----------
+California is abbreviated CA
+Michigan is abbreviated MI
+New York is abbreviated NY
+Florida is abbreviated FL
+Oregon is abbreviated OR
+----------
+FL has the city Jacksonville
+CA has the city San Francisco
+MI has the city Detroit
+OR has the city Portland
+NY has the city New York
+----------
+California state is abbreviated CA and has city San Francisco
+Michigan state is abbreviated MI and has city Detroit
+New York state is abbreviated NY and has city New York
+Florida state is abbreviated FL and has city Jacksonville
+Oregon state is abbreviated OR and has city Portland
+----------
+Sorry, no Texas.
+The city for the state 'TX' is: Does Not Exist
+~/Exercises kevinbai$: python ex38.sd.py 
+bananas
+cheesestakesausage
+['apples', 'bananas', 'milk', 'butter', 'eggs']
+apples bananas milk butter eggs
+~/Exercises kevinbai$: python ex38.sd.py 
+bananas
+sausage
+['apples', 'bananas', 'milk', 'butter', 'eggs', 'cheese', 'stake']
+apples bananas milk butter eggs cheese stake
+~/Exercises kevinbai$: python ex38.sd.py 
+bananas
+sausage
+sausage
+['apples', 'bananas', 'milk', 'butter', 'eggs', 'cheese', 'stake']
+apples bananas milk butter eggs cheese stake
+~/Exercises kevinbai$: python ex38.sd.py 
+bananas
+sausage
+sausage
+['apples', 'bananas', 'milk', 'butter', 'eggs', 'cheese', 'stake']
+apples bananas milk butter eggs cheese stake
+apples%bananas%milk%butter%eggs%cheese%stake
+~/Exercises kevinbai$: python ex38.sd.py 
+bananas
+sausage
+sausage
+['apples', 'bananas', 'milk', 'butter', 'eggs', 'cheese', 'stake']
+apples bananas milk butter eggs cheese stake
+apples%bananas%milk%butter%eggs%cheese%stake
+~/Exercises kevinbai$: python ex40.sd.py 
+/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'ex40.sd.py': [Errno 2] No such file or directory
+~/Exercises kevinbai$: python ex40.py 
+
+
+I AM CLASSY APPLES!
+And now a thousand years between
+
+
+~/Exercises kevinbai$: python ex40.py 
+Traceback (most recent call last):
+  File "ex40.py", line 10, in <module>
+    happy_bday = Song(["Happy birthday to you",
+NameError: name 'Song' is not defined
+~/Exercises kevinbai$: python ex40.py 
+
+
+Happy birthday to you
+I don't want to get sued
+So I'll stopright there
+They rally around tha family
+With pockets full of shells
+
+
+~/Exercises kevinbai$: python ex40.py 
+
+
+Happy birthday to you
+I don't want to get sued
+So I'll stopright there
+They rally around tha family
+With pockets full of shells
+
+
+~/Exercises kevinbai$: python ex40.sd.py 
+Traceback (most recent call last):
+  File "ex40.sd.py", line 46, in <module>
+    from pets import Pet, Dog
+ImportError: No module named pets
+~/Exercises kevinbai$: python ex40.sd.py 
+~/Exercises kevinbai$: python ex40.sd.py 
+~/Exercises kevinbai$: python ex40.sd.py 
+~/Exercises kevinbai$: python
+Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 12:54:16) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from ex40.sd.py import Pet, Dog
+
+
+Happy birthday to you
+I don't want to get sued
+So I'll stopright there
+They rally around tha family
+With pockets full of shells
+
+
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named sd.py
+>>> from ex40.sd.py import Pet, Dog
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named sd.py
+>>> from ex40.sd.py import Pet, Dog
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named sd.py
+>>> from ex40.sd.py import Pet, Dog
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named sd.py
+>>> from ex40.sd.py import Pet, Dog
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named sd.py
+>>> from ex40.sd import Pet, Dog
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named sd
+>>> from ex40quit.sd import Pet, Dog
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named ex40quit.sd
+>>> quit()
+~/Exercises kevinbai$: python
+Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 12:54:16) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from pets import Pet
+>>> from pets import Dog
+>>> 
+>>> mister_pet = Pet("Mister", "Dog")
+>>> mister_dog = Dog("Mister", True)
+>>> isinstance(mister_pet, Pet)
+True
+>>> isinstance(mister_pet, Dog)
+False
+>>> isinstance(mister_dog, Dog)
+True
+>>> isinstance(mister_dog, Pet)
+True
+>>> mister_dog.chases_cats()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'bool' object is not callable
+>>> mister_pet.chases_cats()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'Pet' object has no attribute 'chases_cats'
+>>> quit()
+~/Exercises kevinbai$: python
+Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 12:54:16) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from pets import Dog
+>>> from pets import Pet
+>>>  mister_pet = Pet("Mister", "Dog")
+  File "<stdin>", line 1
+    mister_pet = Pet("Mister", "Dog")
+    ^
+IndentationError: unexpected indent
+>>> mister_dog = Dog("Mister", True)
+>>> mister_pet = Pet("Mister", Dog)
+>>> mister_pet.chases_cats()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'Pet' object has no attribute 'chases_cats'
+>>> mister_dog.chases_cats()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'bool' object is not callable
+>>> mister_dog.getName()
+'Mister'
+>>> mister_pet.getName()
+'Mister'
+>>> mister_pet.chasesCats()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'Pet' object has no attribute 'chasesCats'
+>>> mister_dog.chasesCats()
+True
+>>> from pets import Cat, Dog
+>>> fido = Dog("Fido", True)
+>>> rover = Dog("Rover", False)
+>>> mittens = Cat("Mittens", True)
+>>> fluffy = Cat("Fluffly", False)
+>>> print fido 
+Fido is a Dog
+>>> rover is a dog 
+  File "<stdin>", line 1
+    rover is a dog 
+                 ^
+SyntaxError: invalid syntax
+>>> print Rover
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Rover' is not defined
+>>> print rover
+Rover is a Dog
+>>> print fluffy
+Fluffly is a Cat
+>>> print mittens
+Mittens is a Cat
+>>> print "%s chases cats: %s" % (fido.getName(), fido.chasesCats())
+Fido chases cats: True
+>>> print "%s chases cats: %s" % (rover.getName(), rover.chasesCats())
+Rover chases cats: False
+>>> print "%s hates dogs: %s" % (fluffy.getName(), fluffy.chasesCats()) 
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'Cat' object has no attribute 'chasesCats'
+>>> print "%s hates dogs: %s" % (fluffy.getName(), fluffy.hatesDogs())
+Fluffly hates dogs: False
+>>> print "%s hates dogs: %s" % (mittens.getName(), mittens.hatesDogs())
+Mittens hates dogs: True
+>>> quit()
+~/Exercises kevinbai$: python ex40.sd.py 
+  File "ex40.sd.py", line 16
+    def print_song:
+                  ^
+SyntaxError: invalid syntax
+~/Exercises kevinbai$: python ex40.sd.py 
+Traceback (most recent call last):
+  File "ex40.sd.py", line 19, in <module>
+    new_song = Song("No", "No", "No")
+TypeError: __init__() takes exactly 2 arguments (4 given)
+~/Exercises kevinbai$: python ex40.sd.py 
+['No', 'No', 'No']
+~/Exercises kevinbai$: python ex40.sd.py 
+Traceback (most recent call last):
+  File "ex40.sd.py", line 19, in <module>
+    new_song = Song(cat, ["No", "No", "No"])
+NameError: name 'cat' is not defined
+~/Exercises kevinbai$: python ex40.py 
+
+
+['Happy birthday to you', "I don't want to get sued", "So I'll stopright there"]
+['They rally around tha family', 'With pockets full of shells']
+
+
+~/Exercises kevinbai$: python ex40.py 
+  File "ex40.py", line 8
+    print line
+        ^
+IndentationError: expected an indented block
+~/Exercises kevinbai$: python ex40.py 
+
+
+Happy birthday to you
+I don't want to get sued
+So I'll stopright there
+They rally around tha family
+With pockets full of shells
+
+
+~/Exercises kevinbai$: python ex41.py 
+~/Exercises kevinbai$: python ex41.py 
+  File "ex41.py", line 30
+    for word inurlopne(WORLD_URL).readlines():
+                     ^
+SyntaxError: invalid syntax
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 30, in <module>
+    for word in urlopne(WORLD_URL).readlines():
+NameError: name 'urlopne' is not defined
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 69, in <module>
+    random.shffle(snippets)
+AttributeError: 'module' object has no attribute 'shffle'
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+
+
+Traceback (most recent call last):
+  File "ex41.py", line 75, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 38, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+
+
+
+
+
+
+
+
+
+
+
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: python ex41.py 
+
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 36, in convert
+    random.samples(WORDS, snippet.count("%%%"))]
+AttributeError: 'module' object has no attribute 'samples'
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 50, in convert
+    result = result.replace("***", word, 1)
+UnboundLocalError: local variable 'word' referenced before assignment
+~/Exercises kevinbai$: python ex41.py 
+
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 50, in convert
+    result = result.replace("***", word, 1)
+UnboundLocalError: local variable 'word' referenced before assignment
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: python ex41.py 
+
+Traceback (most recent call last):
+  File "ex41.py", line 73, in <module>
+    question, answer = convert(snippet, phrase)
+  File "ex41.py", line 50, in convert
+    result = result.replace("%%%", word, 1)
+UnboundLocalError: local variable 'word' referenced before assignment
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: python ex41.py 
+class <body bgcolor="white">(object):
+	def <center><h1>404 Not Found</h1></center>(self, <body bgcolor="white">)
+> fa
+ANSWER:  class <body bgcolor="white"> has-a function named <center><h1>404 Not Found</h1></center> that takes self and <body bgcolor="white"> parameters.
+
+
+<body bgcolor="white">.<head><title>404 Not Found</title></head> = '<center><h1>404 Not Found</h1></center>'
+> a       
+ANSWER:  From <body bgcolor="white"> get the <head><title>404 Not Found</title></head> attribute and set it to '<center><h1>404 Not Found</h1></center>'.
+
+
+<head><title>404 Not Found</title></head> = <center><h1>404 not found</h1></center>()
+> ^D
+Bye
+~/Exercises kevinbai$: python ex41.py 
+
+class </html>(object):
+	def <center><h1>404 Not Found</h1></center>(self, <html>,<head><title>404 Not Found</title></head>,<center><h1>404 Not Found</h1></center>)
+> ANSWER:  class </html> has-a function named <center><h1>404 Not Found</h1></center> that takes self and <html>,<head><title>404 Not Found</title></head>,<center><h1>404 Not Found</h1></center> parameters.
+
+
+<body bgcolor="white"> = <body bgcolor="white">()
+> set <body bgcolor="white"> to an instance of class<body bgcolor="white">
+ANSWER:  Set <body bgcolor="white"> to an instance of class <body bgcolor="white">.
+
+
+<head><title>404 Not Found</title></head>.<html> = '<hr><center>nginx/1.6.2</center>'
+> from <head><title>404 Not Found</title></head> get the attribute <html> and set it to '<hr><center>nginx/1.6.2</center>'
+ANSWER:  From <head><title>404 Not Found</title></head> get the <html> attribute and set it to '<hr><center>nginx/1.6.2</center>'.
+
+
+class <body bgcolor="white">(object):
+	def __init__(self, </body>)
+> ^D
+Bye
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: python test.py 
+desire = Achiever()
+> set desire to an instance of Archiever()
+ANSWER:  Set desire to an instance of class Achiever.
+
+
+alarm.animal = 'death'
+> ^D
+Bye
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: 
+~/Exercises kevinbai$: python ex41.py 
+
+coast.bait(boundary)
+> ANSWER:  From coast get the bait function, and call it with parameters self, boundary.
+
+
+class Brush(object):
+	def __init__(self, bath)
+> create module __init__ with variables self and bath 
+ANSWER:  class Brush has-a __init__ that take self and bath parameters.
+
+
+bead = Channel()
+> define instance bead from class Channel()
+ANSWER:  Set bead to an instance of class Channel.
+
+
+class Curve(object):
+	def blow(self, business,birthday)
+> class Curve has-a blow method that takes self, business and birthday parameters 
+ANSWER:  class Curve has-a function named blow that takes self and business,birthday parameters.
+
+
+bait.calendar = 'discussion'
+> set claendar from instance bait as 'discussion'
+ANSWER:  From bait get the calendar attribute and set it to 'discussion'.
+
+
+class Cap(Bomb):
+> create the class Cap is-a Bomb
+ANSWER:  Make a class named Cap that is-a Bomb
+
+
+business.dock(distance,bell,door)
+> call the dock method from the instance business with the variables distance, bell, and door
+ANSWER:  From business get the dock function, and call it with parameters self, distance,bell,door.
+
+
+blow = Doctor()
+> set the blow ^D
+ANSWER:  Set blow to an instance of class Doctor.
+
+
+class Celery(Clock):
+> ^D
+Bye
+~/Exercises kevinbai$: python Tools/file_comp.py 
+  File "Tools/file_comp.py", line 11
+    print("Comparing files ", " > " + fname1, " < " +fname2, sep='\n')
+                                                                ^
+SyntaxError: invalid syntax
+~/Exercises kevinbai$: python Tools/file_comp.py 
+  File "Tools/file_comp.py", line 11
+    print "Comparing files ", " > " + fname1, " < " +fname2, sep='\n'
+                                                                ^
+SyntaxError: invalid syntax
+~/Exercises kevinbai$: python ex41.py 
+Traceback (most recent call last):
+  File "ex41.py", line 30, in <module>
+    for word in urlopen(WORD_URL).readlines():
+NameError: name 'WORD_URL' is not defined
+~/Exercises kevinbai$: python ex41.py 
+class Beginner(Cup):
+> 
+ANSWER:  Make a class named Beginner that is-a Cup.
+
+
+class Chance(object):
+	def __init__(self, cactus)
+> 
+ANSWER:  class Chance has-a __init__ that takes self and cactus parameters.
+
+
+drain = Brass()
+> ^[[A
+ANSWER:  Set drain to an instance of class Brass.
+
+
+class Drawer(object):
+	def deer(self, cattle)
+> ^[[A
+ANSWER:  class Drawer has-a function named deer that takes self and cattle parameters.
+
+
+can.cup(cracker, death, blood)
+> ^D
+Bye
+~/Exercises kevinbai$: python ex41.py 
+adjustment.amusement(country, beginner)
+> from the adjustment instance call the function amusement with the parameters self, country, and beginner  
+ANSWER:  From adjustment get the amusement function, and call it with parameters self, country, beginner.
+
+
+class Copy(object):
+	def dock(self, bath)
+> create class Copy is-a object and create dock function with parameters self, and bath 
+ANSWER:  class Copy has-a function named dock that takes self and bath parameters.
+
+
+class Deer(Arch):
+> create class Dear is-a Arch     
+ANSWER:  Make a class named Deer that is-a Arch.
+
+
+bomb = Cat()
+> create the instance bomb of the class Cat with bomb as the self parameter 
+ANSWER:  Set bomb to an instance of class Cat.
+
+
+class Alarm(object):
+	def __init__(self, cracker)
+> class Alarm has-a __init__ function that takes parameters self and cracker
+ANSWER:  class Alarm has-a __init__ that takes self and cracker parameters.
+
+
+disgust.bread = 'berry'
+> get the bread attribute from instance disgust and set it to 'berry'
+ANSWER:  From disgust get the bread attribute and set it to 'berry'.
+
+
+dock.death = 'cheese'
+> from the dock instance get the attribute death and set it to 'cheese'
+ANSWER:  From dock get the death attribute and set it to 'cheese'.
+
+
+class Authority(object):
+	def cup(self, burn, arithmetic, bait)
+> class Authority is-a object and has-a cup function with parameters self, burn, arithmetic, and bait 
+ANSWER:  class Authority has-a function named cup that takes self and burn, arithmetic, bait parameters.
+
+
+class Children(object):
+	def __init__(self, brick)
+> class Children is-a object and has-a __init__ function that takes the self, and brick parameters
+ANSWER:  class Children has-a __init__ that takes self and brick parameters.
+
+
+boundary = Blood()
+> create instance boundary from the class Blood() and set boundary to the self parameter
+ANSWER:  Set boundary to an instance of class Blood.
+
+
+army.division(cannon, bird)
+> from instance army call the function divison with the self, cannon, and bird parameters
+ANSWER:  From army get the division function, and call it with parameters self, cannon, bird.
+
+
+class Body(Beam):
+> create the body class is-a Beam
+ANSWER:  Make a class named Body that is-a Beam.
+
+
+discussion = Drug()
+> create the discussion instance of the class Drug with the self parameter 
+ANSWER:  Set discussion to an instance of class Drug.
+
+
+class Cast(Cattle):
+> create the class Cast that is-a Cattle
+ANSWER:  Make a class named Cast that is-a Cattle.
+
+
+class Amusement(object):
+	def __init__(self, cloth)
+> the class Amusement has-a __init__ function that takes the self, and cloth parameters
+ANSWER:  class Amusement has-a __init__ that takes self and cloth parameters.
+
+
+donkey.behavior = 'angle'
+> from the donkey instance get the attribute behavior and set it to 'angle'
+ANSWER:  From donkey get the behavior attribute and set it to 'angle'.
+
+
+coach.current(advice, competition)
+> 
+ANSWER:  From coach get the current function, and call it with parameters self, advice, competition.
+
+
+class Bean(object):
+	def book(self, cow, authority)
+> 
+ANSWER:  class Bean has-a function named book that takes self and cow, authority parameters.
+
+
+class Chance(object):
+	def breath(self, death, brain)
+> 
+ANSWER:  class Chance has-a function named breath that takes self and death, brain parameters.
+
+
+body.arithmetic(dust, bed)
+> get the arithmetic function from the body instance with the self, dust, and bed parameters 
+ANSWER:  From body get the arithmetic function, and call it with parameters self, dust, bed.
+
+
+class Bear(object):
+	def __init__(self, cheese)
+> 
+ANSWER:  class Bear has-a __init__ that takes self and cheese parameters.
+
+
+collar.apple = 'bottle'
+> 
+ANSWER:  From collar get the apple attribute and set it to 'bottle'.
+
+
+class Bell(Carriage):
+> 
+ANSWER:  Make a class named Bell that is-a Carriage.
+
+
+aunt = Crook()
+> create the aunt instance of the Crook class, set aunt as the self parameter
+ANSWER:  Set aunt to an instance of class Crook.
+
+
+army = Church()
+> create the army instance of the Church class
+ANSWER:  Set army to an instance of class Church.
+
+
+class Distribution(object):
+	def camera(self, destruction, chicken, drum)
+> ^D
+Bye
+~/Exercises kevinbai$: python ex41.py english
+Set coal to an instance of class Cow.
+> coal = Cow()
+ANSWER:  coal = Cow()
+
+
+Make a class named Creature that is-a Band.
+> class Creature(Band):
+ANSWER:  class Creature(Band):
+
+
+class Battle has-a __init__ that takes self and canvas parameters.
+> class Battle(Object): def __init__(self, canvas):
+ANSWER:  class Battle(object):
+	def __init__(self, canvas)
+
+
+class Deer has-a function named digestion that takes self and breath parameters.
+> class Deer(Object): def digestion(self, breath):
+ANSWER:  class Deer(object):
+	def digestion(self, breath)
+
+
+From brick get the camera attribute and set it to 'balloon'.
+> brick.camera = 'balloon'
+ANSWER:  brick.camera = 'balloon'
+
+
+From beast get the cub function, and call it with parameters self, celery, dad.
+> beast.cub(celery, dad)
+ANSWER:  beast.cub(celery, dad)
+
+
+Set breath to an instance of class Development.
+> breath = Development()
+ANSWER:  breath = Development()
+
+
+From alarm get the boat function, and call it with parameters self, balance, answer.
+> alaram.boat(balance, answer)
+ANSWER:  alarm.boat(balance, answer)
+
+
+From back get the business attribute and set it to 'bedroom'.
+> back.business = 'bedroom'
+ANSWER:  back.business = 'bedroom'
+
+
+class Drink has-a function named drawer that takes self and cabbage, brake, cattle parameters.
+> class Drink(Object): def drawer(self, cabbage, brake, cattle):
+ANSWER:  class Drink(object):
+	def drawer(self, cabbage, brake, cattle)
+
+
+Make a class named Coach that is-a Boy.
+> class Coach(Boy):
+ANSWER:  class Coach(Boy):
+
+
+class Baby has-a __init__ that takes self and account parameters.
+> class Baby(Object): def __init__(self, account):
+ANSWER:  class Baby(object):
+	def __init__(self, account)
+
+
+Make a class named Chalk that is-a Answer.
+> class Chalk(Answer):
+ANSWER:  class Chalk(Answer):
+
+
+class Dinner has-a function named burst that takes self and baby parameters.
+> 
+ANSWER:  class Dinner(object):
+	def burst(self, baby)
+
+
+From chance get the beast attribute and set it to 'corn'.
+> 
+ANSWER:  chance.beast = 'corn'
+
+
+class Downtown has-a __init__ that takes self and box parameters.
+> 
+ANSWER:  class Downtown(object):
+	def __init__(self, box)
+
+
+From calculator get the dirt function, and call it with parameters self, bulb, discussion.
+> 
